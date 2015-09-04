@@ -1,4 +1,4 @@
-# 04 Function Examples and Exercises
+# 03 Function Examples and Exercises
 
 Javascript function() examples and exercises.
 Covers:
