@@ -3,10 +3,10 @@
 Javascript function() examples and exercises.
 Covers:   
 
-	*Creation of functions via   
-		*Constructor Function (new keyword)   
-		*function expression   
-		*function declaration   
+* Creation of functions via   
+  * Constructor Function (new keyword)   
+  * function expression   
+  * function declaration   
 
 ## Installation
 
