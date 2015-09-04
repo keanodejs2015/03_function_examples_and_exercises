@@ -1,6 +1,6 @@
 # 03 Function Examples and Exercises
 
-Javascript function() examples and exercises.   
+## Javascript function() examples and exercises.   
 
 Covers:   
 
