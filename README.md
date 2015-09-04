@@ -15,4 +15,4 @@ Covers:
 
 ## Credits
 
-(C) Kea - 04-09-2015 - [clbo@kea.dk]  (mailto:clbo@kea.dk)
+&copy;	&#169; Kea - 04-09-2015 - [clbo@kea.dk]  (mailto:clbo@kea.dk)
