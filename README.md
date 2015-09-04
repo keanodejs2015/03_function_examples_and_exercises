@@ -9,6 +9,13 @@ Covers:
   * function expression   
   * function declaration   
 
+* Anonymous Functions
+  * function expression   
+  * function declaration   
+
+* Immediately Invoked Function Expressions (IIFEs)   
+
+
 ## Installation
 
 <pre> git clone https://github.com/keanodejs/03_function_examples_and_exercises.git </pre>
