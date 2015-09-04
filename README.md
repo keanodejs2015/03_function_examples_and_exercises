@@ -15,6 +15,10 @@ Covers:
 
 * Immediately Invoked Function Expressions (IIFEs)   
 
+* Hoisting   
+
+*    
+
 
 ## Installation
 
